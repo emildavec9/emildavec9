@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am Emil, I am currently studying Software Development.
 <!--
 **emildavec9/emildavec9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
